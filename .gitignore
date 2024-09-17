@@ -3,3 +3,4 @@
 .vscode
 .scala-build
 /target
+/project
