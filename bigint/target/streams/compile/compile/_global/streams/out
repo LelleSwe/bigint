@@ -1,0 +1,41 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /home/lelle/Documents/Scala/bigint/bigint/src/main/scala/main.scala:15:6 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m15 |[0m[33mclass[0m [35mBigInit[0m([36msize[0m: [35mInt[0m) [33mextends[0m [35mBigNum[0m {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m      ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  class BigInit needs to be abstract, since:[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  it has 2 unimplemented members.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  /** As seen from class BigInit, the missing signatures are as follows.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m   *  For convenience, these are usable as stub implementations.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m   */[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m    var neg: Boolean = ???[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m    var value: Array[scala.scalanative.unsafe.CUnsignedInt] = ???[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /home/lelle/Documents/Scala/bigint/bigint/src/main/scala/main.scala:56:17 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m56 |[0m    [33mval[0m [36msliced[0m = [33mnew[0m [35mBigNum[0m {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                 ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mobject creation impossible, since:[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mit has 2 unimplemented members.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m/** As seen from class $anon, the missing signatures are as follows.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m *  For convenience, these are usable as stub implementations.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m */[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  var neg_=(x$1: Boolean): Unit = ???[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  var value_=(x$1: Array[scala.scalanative.unsafe.CUnsignedInt]): Unit = ???[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /home/lelle/Documents/Scala/bigint/bigint/src/main/scala/main.scala:24:7 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m24 |[0m[33mobject[0m [35mBigInternal[0m [33mextends[0m [35mBigNum[0m {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m       ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mobject creation impossible, since:[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mit has 2 unimplemented members.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m/** As seen from module class BigInternal$, the missing signatures are as follows.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m *  For convenience, these are usable as stub implementations.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m */[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  var neg: Boolean = ???[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  var value: Array[scala.scalanative.unsafe.CUnsignedInt] = ???[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /home/lelle/Documents/Scala/bigint/bigint/src/main/scala/main.scala:68:15 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m68 |[0m[33mimplicit[0m [33mclass[0m [35mBigIntOperate[0m([36mfirst[0m: [35mBigNum[0m) [33mextends[0m [35mBigNum[0m {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m               ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mclass BigIntOperate needs to be abstract, since:[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mit has 2 unimplemented members.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m/** As seen from class BigIntOperate, the missing signatures are as follows.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m *  For convenience, these are usable as stub implementations.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m */[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  var neg: Boolean = ???[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  var value: Array[scala.scalanative.unsafe.CUnsignedInt] = ???[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
